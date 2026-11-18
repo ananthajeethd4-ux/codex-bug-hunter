@@ -65,4 +65,4 @@ The skill avoids destructive checks, respects uncommitted work and secrets, and 
 
 ## License
 
-No license has been selected yet. The repository is public, but reuse rights remain with the copyright holder unless a license is added.
+Licensed under the [MIT License](LICENSE). You may use, modify, and redistribute the skill under its terms.
