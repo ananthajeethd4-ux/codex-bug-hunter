@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bug Hunter"
+  short_description: "Find, reproduce, prioritize and fix code bugs"
+  default_prompt: "Hunt for bugs in this repository. Prioritize confirmed correctness issues and show evidence with file and line references."
